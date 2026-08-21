@@ -1,0 +1,6 @@
+{
+  "name": "Verve Advisory - Onboarding & HRMS Framework",
+  "description": "Comprehensive employee onboarding platform and HRMS framework for Verve Advisory featuring Zoom virtual attendance engine, no-leave wellbeing tracking, policy acknowledgements, and full lifecycle management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
